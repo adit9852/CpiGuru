@@ -157,12 +157,12 @@ const MainContainer = () => {
         <footer className="bg-[#ffffff] text-black flex justify-center ">
           <span>Made by-</span>
           <a
-            href="https://github.com/nileshcode1"
+            href="https://github.com/adit9852"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-1 underline cursor-pointer hover:text-blue-500"
           >
-            nileshpandey😷
+            Aditya Kumar😷
           </a>
         </footer>
       </div>
